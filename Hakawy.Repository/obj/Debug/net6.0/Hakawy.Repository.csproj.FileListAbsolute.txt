@@ -1,0 +1,15 @@
+D:\Graduation Project\GraduationProject\Hakawy.Repository\bin\Debug\net6.0\Hakawy.Repository.deps.json
+D:\Graduation Project\GraduationProject\Hakawy.Repository\bin\Debug\net6.0\Hakawy.Repository.dll
+D:\Graduation Project\GraduationProject\Hakawy.Repository\bin\Debug\net6.0\Hakawy.Repository.pdb
+D:\Graduation Project\GraduationProject\Hakawy.Repository\bin\Debug\net6.0\Hakawy.Core.dll
+D:\Graduation Project\GraduationProject\Hakawy.Repository\bin\Debug\net6.0\Hakawy.Core.pdb
+D:\Graduation Project\GraduationProject\Hakawy.Repository\obj\Debug\net6.0\Hakawy.Repository.csproj.AssemblyReference.cache
+D:\Graduation Project\GraduationProject\Hakawy.Repository\obj\Debug\net6.0\Hakawy.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation Project\GraduationProject\Hakawy.Repository\obj\Debug\net6.0\Hakawy.Repository.AssemblyInfoInputs.cache
+D:\Graduation Project\GraduationProject\Hakawy.Repository\obj\Debug\net6.0\Hakawy.Repository.AssemblyInfo.cs
+D:\Graduation Project\GraduationProject\Hakawy.Repository\obj\Debug\net6.0\Hakawy.Repository.csproj.CoreCompileInputs.cache
+D:\Graduation Project\GraduationProject\Hakawy.Repository\obj\Debug\net6.0\Hakawy.R.498636AF.Up2Date
+D:\Graduation Project\GraduationProject\Hakawy.Repository\obj\Debug\net6.0\Hakawy.Repository.dll
+D:\Graduation Project\GraduationProject\Hakawy.Repository\obj\Debug\net6.0\refint\Hakawy.Repository.dll
+D:\Graduation Project\GraduationProject\Hakawy.Repository\obj\Debug\net6.0\Hakawy.Repository.pdb
+D:\Graduation Project\GraduationProject\Hakawy.Repository\obj\Debug\net6.0\ref\Hakawy.Repository.dll

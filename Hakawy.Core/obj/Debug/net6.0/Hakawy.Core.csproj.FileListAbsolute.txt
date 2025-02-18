@@ -1,0 +1,12 @@
+D:\Graduation Project\GraduationProject\Hakawy.Core\bin\Debug\net6.0\Hakawy.Core.deps.json
+D:\Graduation Project\GraduationProject\Hakawy.Core\bin\Debug\net6.0\Hakawy.Core.dll
+D:\Graduation Project\GraduationProject\Hakawy.Core\bin\Debug\net6.0\Hakawy.Core.pdb
+D:\Graduation Project\GraduationProject\Hakawy.Core\obj\Debug\net6.0\Hakawy.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation Project\GraduationProject\Hakawy.Core\obj\Debug\net6.0\Hakawy.Core.AssemblyInfoInputs.cache
+D:\Graduation Project\GraduationProject\Hakawy.Core\obj\Debug\net6.0\Hakawy.Core.AssemblyInfo.cs
+D:\Graduation Project\GraduationProject\Hakawy.Core\obj\Debug\net6.0\Hakawy.Core.csproj.CoreCompileInputs.cache
+D:\Graduation Project\GraduationProject\Hakawy.Core\obj\Debug\net6.0\Hakawy.Core.dll
+D:\Graduation Project\GraduationProject\Hakawy.Core\obj\Debug\net6.0\refint\Hakawy.Core.dll
+D:\Graduation Project\GraduationProject\Hakawy.Core\obj\Debug\net6.0\Hakawy.Core.pdb
+D:\Graduation Project\GraduationProject\Hakawy.Core\obj\Debug\net6.0\ref\Hakawy.Core.dll
+D:\Graduation Project\GraduationProject\Hakawy.Core\obj\Debug\net6.0\Hakawy.Core.csproj.AssemblyReference.cache
